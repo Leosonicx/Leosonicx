@@ -12,7 +12,7 @@
   <img align="right" alt="Leosonicx-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/920095670747148351/1019261969741647902/15f146c02729315f990b995ce54a8783.png">
 </div>
 
-   Leonardo Jonathan do Carmo, 20 anos e um total amante de programação!
+  <hr> Leonardo Jonathan do Carmo, 20 anos e um total amante de programação!
  
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
