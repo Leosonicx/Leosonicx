@@ -1,7 +1,7 @@
 <h1 align="center">Olá, meu nome é Leonardo Jonathan do Carmo</h1>
 <h3 align="center">Sou um estudante de desenvolvimento Front-End e Análise de Dados.</h3>
 
-- 🌱 Atualmente estou aprendendo sobre **JavaScript (CJRM) e Análise de Dados da Google.**
+- 🌱 Atualmente estou aprendendo sobre **JavaScript (CJRM)** e faço o **Profissionalizante sobre Análise de Dados do Google**.
 
 - ☎️ Telefone: **(35) 98826-7259**
 
@@ -30,3 +30,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leosonicx&theme=dark" alt="leosonicx" /></p>
 
 ![Snake animation](https://github.com/Leosonicx/Gifs-Read.me/blob/main/leosonicx-output/github-contribution-grid-snake.svg)
+
+<p> Eaí, curtiu?! Adiciona ai no Discord para batermos um papo: Leosonicx#3020 </p>
