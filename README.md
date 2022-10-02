@@ -25,8 +25,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leosonicx&show_icons=true&theme=dark&title_color=c5c4c4&text_color=c5c4c4&locale=en&layout=compact" alt="leosonicx" /></p>
 
-<p> ;) </p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leosonicx&show_icons=true&theme=dark&title_color=c5c4c4&text_color=c5c4c4&cache_seconds=1800&locale=en" alt="leosonicx" /></p>
+
+<p> ;) </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leosonicx&theme=dark" alt="leosonicx" /></p>
