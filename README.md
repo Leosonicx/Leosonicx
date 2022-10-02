@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=leosonicx&show_icons=true&theme=dark&title_color=c5c4c4&text_color=c5c4c4&cache_seconds=1800&locale=en" alt="leosonicx" /></p> <p><img align="left" width="200" src="https://github.com/Leosonicx/Snake-Gif-Clone/blob/main/leosonicx-output/dckqywj-30cea7d4-b5c1-44f9-bba9-906977ba1d02.gif" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leosonicx&theme=dark" alt="leosonicx" /></p>
+
+  ![Snake animation] (https://github.com/Leosonicx/Gifs-Read.me/blob/main/leosonicx-output/github-contribution-grid-snake.svg)
