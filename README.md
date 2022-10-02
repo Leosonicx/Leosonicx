@@ -31,4 +31,4 @@
 
 ![Snake animation](https://github.com/Leosonicx/Gifs-Read.me/blob/main/leosonicx-output/github-contribution-grid-snake.svg)
 
-<p> Eaí, curtiu?! Adiciona ai no Discord para batermos um papo: Leosonicx#3020 </p>
+<h3 align="center">Eaí, curtiu?! Adiciona ai no Discord para batermos um papo: Leosonicx#3020 </h3>
