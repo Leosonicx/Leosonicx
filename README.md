@@ -1,13 +1,14 @@
 <h1 align="center">Olá, meu nome é Leonardo Jonathan do Carmo</h1>
+<p><img align="center" " src="https://github.com/Leosonicx/Gifs-Read.me/blob/main/leosonicx-output/text2image_M2709177_20221010_31322.png" /></p>
 <h3 align="center">Sou um estudante de desenvolvimento Front-End e Análise de Dados.</h3>
 
 - 🌱 Atualmente estou aprendendo sobre **JavaScript (CJRM)** e faço o **Profissionalizante sobre Análise de Dados do Google**.
 
 - ☎️ Telefone: **(35) 98826-7259**
 
-- 📫 Email: **leonardocarmo941@gmail.com**
+- 📫 Email: **leonardocarmo941@gmail.com** 
 
-- ⚡ Meu nick é **Leosonicx 😩**
+- ⚡ Tenho **20 anos 😩**
 
 <h3 align="left">Contatos:</h3>
 <p align="left">
