@@ -42,8 +42,6 @@
 
 - 📫 *Email*: **leonardocarmo941@gmail.com** 
 
-- ⚡ *Atualmente*, *tenho* **20 anos** 😩
-
 </div>
 
 <div>
@@ -58,7 +56,20 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leosonicx&theme=dark" alt="leosonicx" /></p>
 
-![Snake animation](https://github.com/Leosonicx/Gifs-Read.me/blob/main/leosonicx-output/github-contribution-grid-snake.svg)
+</div>
+
+<div align="center">
+
+```javascript
+let aboutMe = ['Nome', 'Idade,', 'Estado civil', 'Gênero', 'Ocupação', 'Cidade']
+const myFirstName = 'Leonardo'
+const myLastName = 'Carmo'
+let myAge = 20
+let civilStatus = 'Solteiro
+let gender = 'Masculino
+let occupation = 'Estudante'
+let city = 'Itajubá'
+```
 
 </div>
 
