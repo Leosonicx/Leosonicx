@@ -68,7 +68,7 @@ const myFirstName = 'Leonardo'
 const myLastName = 'Carmo'
 let myAge = 20
 let civilStatus = 'Solteiro'
-let MyGender = 'Masculino'
+let myGender = 'Masculino'
 let occupation = 'Estudante'
 let city = 'Itajubá'
 ```
