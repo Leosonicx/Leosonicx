@@ -1,6 +1,6 @@
-<p align="center"><img width="120" src="https://github.com/Leosonicx/Gifs-Read.me/blob/main/leosonicx-output/29676.png" alt="Shadow" /></p>
+<p align="center"><img width="150" src="https://github.com/Leosonicx/Gifs-Read.me/blob/main/leosonicx-output/29676.png" alt="Coroa" /></p>
 <h1 align="center">Olá, meu nome é Leonardo Jonathan do Carmo</h1>
-<p align="center"><img align="center" " src="https://github.com/Leosonicx/Gifs-Read.me/blob/main/leosonicx-output/text2image_M2709177_20221010_31322.png" /></p>
+<p align="center"><img align="center" src="https://github.com/Leosonicx/Gifs-Read.me/blob/main/leosonicx-output/text2image_M2709177_20221010_31322.png" /></p>
 
 <h3 align="center">Sou um estudante de Desenvolvimento Front-End e Análise de Dados.</h3>
   
@@ -33,6 +33,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leosonicx&theme=dark" alt="leosonicx" /></p>
 
 ![Snake animation](https://github.com/Leosonicx/Gifs-Read.me/blob/main/leosonicx-output/github-contribution-grid-snake.svg)
-
+<br>
+<br>
 <p align="center"> Dá uma olhada nas minhas anotações de estudos atuais:<a href="https://leosonicx.notion.site/JavaScript-87465157fef6472cbbfeee24327a9315"> Anotações JavaScript</a></p>
 <h3 align="center">Eaí, curtiu?! Adiciona ai no Discord para batermos um papo: Leosonicx#3020 </h3>
