@@ -1,10 +1,9 @@
 <h1 align="center">Olá, meu nome é Leonardo Jonathan do Carmo</h1>
-<br>
-<br>
 <p align="center"><img align="center" " src="https://github.com/Leosonicx/Gifs-Read.me/blob/main/leosonicx-output/text2image_M2709177_20221010_31322.png" /></p>
-<br>
-<h3 align="center">Sou um estudante de desenvolvimento Front-End e Análise de Dados.</h3>
 
+<h3 align="center">Sou um estudante de desenvolvimento Front-End e Análise de Dados.</h3>
+<br>
+  
 - 🌱 Atualmente estou aprendendo sobre **JavaScript (CJRM)** e faço o **Profissionalizante sobre Análise de Dados do Google**.
 
 - ☎️ Telefone: **(35) 98826-7259**
