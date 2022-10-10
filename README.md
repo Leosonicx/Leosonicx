@@ -1,7 +1,7 @@
 <div>
 
 <p align="center"><img width="70" height="50" src="https://github.com/Leosonicx/Gifs-Read.me/blob/main/leosonicx-output/King_Crown_png_website_free.png" alt="Coroa" /></p>
-<h1 align="center">Olá, meu nome é Leonardo Jonathan do Carmo <img src="https://github.com/Leosonicx/Gifs-Read.me/blob/main/leosonicx-output/1450336_c187d.gif" width="50px"></h1>
+<h1 align="center">Olá, meu nome é Leonardo Jonathan do Carmo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 <p align="center"><img align="center" src="https://github.com/Leosonicx/Gifs-Read.me/blob/main/leosonicx-output/text2image_M2709177_20221010_31322.png" /></p>
 
 </div>
