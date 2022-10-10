@@ -31,5 +31,5 @@
 
 ![Snake animation](https://github.com/Leosonicx/Gifs-Read.me/blob/main/leosonicx-output/github-contribution-grid-snake.svg)
 
-<p align="center"> Dá uma olhada nas minhas anotações de estudos atuais: https://leosonicx.notion.site/JavaScript-87465157fef6472cbbfeee24327a9315 </p>
+<p align="center"> Dá uma olhada nas minhas anotações de estudos atuais:<a href="https://leosonicx.notion.site/JavaScript-87465157fef6472cbbfeee24327a9315"> Anotações JavaScript</a></p>
 <h3 align="center">Eaí, curtiu?! Adiciona ai no Discord para batermos um papo: Leosonicx#3020 </h3>
