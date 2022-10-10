@@ -1,3 +1,4 @@
+<p align="center"><img width="120" src="https://github.com/Leosonicx/Gifs-Read.me/blob/main/leosonicx-output/29676.png" alt="Shadow" /></p>
 <h1 align="center">Olá, meu nome é Leonardo Jonathan do Carmo</h1>
 <p align="center"><img align="center" " src="https://github.com/Leosonicx/Gifs-Read.me/blob/main/leosonicx-output/text2image_M2709177_20221010_31322.png" /></p>
 
