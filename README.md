@@ -1,7 +1,7 @@
 <h1 align="center">Olá, meu nome é Leonardo Jonathan do Carmo</h1>
 <p align="center"><img align="center" " src="https://github.com/Leosonicx/Gifs-Read.me/blob/main/leosonicx-output/text2image_M2709177_20221010_31322.png" /></p>
 
-<h3 align="center">Sou um estudante de desenvolvimento Front-End e Análise de Dados.</h3>
+<h3 align="center">Sou um estudante de Desenvolvimento Front-End e Análise de Dados.</h3>
   
 - 🌱 Atualmente estou aprendendo sobre **JavaScript (CJRM)** e faço o **Profissionalizante sobre Análise de Dados do Google**.
 
@@ -9,7 +9,7 @@
 
 - 📫 Email: **leonardocarmo941@gmail.com** 
 
-- ⚡ Tenho **20 anos 😩**
+- ⚡ Tenho **20 anos ** 😩
 
 <h3 align="left">Contatos:</h3>
 <p align="left">
@@ -27,7 +27,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leosonicx&show_icons=true&theme=dark&title_color=c5c4c4&text_color=c5c4c4&locale=en&layout=compact" alt="leosonicx" /></p> <p><img align="right" width="260" src="https://github.com/Leosonicx/Snake-Gif-Clone/blob/main/leosonicx-output/d5b88b45655b89b33ff6d1dc2df982ff_w200.gif" alt="Sonic" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=leosonicx&show_icons=true&theme=dark&title_color=c5c4c4&text_color=c5c4c4&cache_seconds=1800&locale=en" alt="leosonicx" /></p> <p><img align="left" width="220" src="https://github.com/Leosonicx/Snake-Gif-Clone/blob/main/leosonicx-output/dckqywj-30cea7d4-b5c1-44f9-bba9-906977ba1d02.gif" alt="Shadow" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=leosonicx&show_icons=true&theme=dark&title_color=c5c4c4&text_color=c5c4c4&cache_seconds=1800&locale=en" alt="leosonicx" /></p> <p><img align="left" width="215" src="https://github.com/Leosonicx/Snake-Gif-Clone/blob/main/leosonicx-output/dckqywj-30cea7d4-b5c1-44f9-bba9-906977ba1d02.gif" alt="Shadow" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leosonicx&theme=dark" alt="leosonicx" /></p>
 
