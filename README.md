@@ -2,7 +2,6 @@
 <p align="center"><img align="center" " src="https://github.com/Leosonicx/Gifs-Read.me/blob/main/leosonicx-output/text2image_M2709177_20221010_31322.png" /></p>
 
 <h3 align="center">Sou um estudante de desenvolvimento Front-End e Análise de Dados.</h3>
-<br>
   
 - 🌱 Atualmente estou aprendendo sobre **JavaScript (CJRM)** e faço o **Profissionalizante sobre Análise de Dados do Google**.
 
