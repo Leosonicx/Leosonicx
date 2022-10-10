@@ -9,7 +9,7 @@
 
 - 📫 Email: **leonardocarmo941@gmail.com** 
 
-- ⚡ Tenho **20 anos ** 😩
+- ⚡ Atualmente tenho **20 anos** 😩
 
 <h3 align="left">Contatos:</h3>
 <p align="left">
