@@ -1,4 +1,3 @@
-<p><img align="right" width="120" src="https://github.com/Leosonicx/Gifs-Read.me/blob/main/leosonicx-output/29676.png" /></p>
 <h1 align="center">Olá, meu nome é Leonardo Jonathan do Carmo</h1>
 <h3 align="center">Sou um estudante de desenvolvimento Front-End e Análise de Dados.</h3>
 
