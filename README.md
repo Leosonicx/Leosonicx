@@ -76,7 +76,7 @@ let city = 'Itajubá'
 
 <br>
 
-<div>
+<div align="center">
 
 <p align="left"> Dá uma olhada nas minhas anotações de estudos atuais:<a href="https://leosonicx.notion.site/JavaScript-87465157fef6472cbbfeee24327a9315"> Anotações JavaScript</a></p>
 
