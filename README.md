@@ -1,4 +1,4 @@
-<p align="center"><img width="150" src="https://github.com/Leosonicx/Gifs-Read.me/blob/main/leosonicx-output/29676.png" alt="Coroa" /></p>
+<p align="center"><img width="50" src="https://github.com/Leosonicx/Gifs-Read.me/blob/main/leosonicx-output/29676.png" alt="Coroa" /></p>
 <h1 align="center">Olá, meu nome é Leonardo Jonathan do Carmo</h1>
 <p align="center"><img align="center" src="https://github.com/Leosonicx/Gifs-Read.me/blob/main/leosonicx-output/text2image_M2709177_20221010_31322.png" /></p>
 
@@ -16,11 +16,11 @@
 <p align="left">
 <a href="https://twitter.com/leosonicx_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leosonicx_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/eonardo-carmo-707333217" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo-carmo-707333217" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/307455" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="307455" height="30" width="40" /></a>
-<a href="https://fb.com/100010823321011" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100010823321011" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/307455" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
+<a href="https://fb.com/100010823321011" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 <a href="https://instagram.com/leosonicxx" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leosonicxx" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/leosonicx" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="leosonicx" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/Dj8BEQh5dQ" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Dj8BEQh5dQ" height="30" width="40" /></a>
+<a href="https://discord.gg/2QvbpYRKEA" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/2QvbpYRKEA" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
