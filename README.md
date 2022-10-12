@@ -14,13 +14,13 @@
 
 - 🌱 *O que estou cursando*?
 
-- 📋 *Curso de* **JavaScript Roger Melo** (CJRM);
+- 📋 *Curso de* **<a href="https://leosonicx.notion.site/JavaScript-87465157fef6472cbbfeee24327a9315">JavaScript Roger Melo</a>** (CJRM);
 
-- 📋 *Profissional de* **UX Design** *do* **Google**;
+- 📋 *Profissional de* **<a href="https://leosonicx.notion.site/Curso-de-ingl-s-T-cnico-B-sico-ao-Avan-ado-3172ddabea564c3b8af8dd7333413900">UX Design</a>** *do* **Google**;
 
-- 📋 *Profissional de* **Análise de Dados** *do* **Google**;
+- 📋 *Profissional de* **<a href="https://leosonicx.notion.site/An-lise-de-Dados-Profissionalizante-8948f1b98daa48d1a0598d08b03eb759">Análise de Dados</a>** *do* **Google**;
 
-- 📋 *EF English Live* - **Inglês técnico** *e* **Fluente**;
+- 📋 *EF English Live* - **<a href="https://leosonicx.notion.site/Curso-de-ingl-s-T-cnico-B-sico-ao-Avan-ado-3172ddabea564c3b8af8dd7333413900">Inglês Técnico</a>**;
 
 </div>
 
@@ -79,7 +79,7 @@ let city = 'Itajubá'
 
 <div align="center">
 
-<p align="center"> Dá uma olhada nas minhas anotações de estudos atuais:<a href="https://leosonicx.notion.site/JavaScript-87465157fef6472cbbfeee24327a9315"> Anotações JavaScript</a></p>
+<p align="center"> Dá uma olhada nas minhas anotações de estudos atuais:<a href="https://leosonicx.notion.site/Estudos-em-geral-35feb204497345a79500edc641149c43"> Minhas anotações de estudo em geral</a></p>
 
 </div>
 
