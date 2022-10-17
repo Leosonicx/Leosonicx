@@ -63,14 +63,17 @@
 <div align="center">
 
 ```javascript
-// Sobre mim:
-const myFirstName = 'Leonardo'
-const myLastName = 'Carmo'
-let myAge = 20
-let civilStatus = 'Solteiro'
-let myGender = 'Masculino'
-let occupation = 'Estudante'
-let city = 'Itajubá'
+let aboutMe = {
+fullName: 'Leonardo Jonathan do Carmo', 
+age: 20,
+gender: 'male',
+civilStatus: 'Solteiro',
+city: 'Itajubá',
+occupation: 'Estudante',
+curiositys: ['Programador', 'Fã N°1 de Sitcoms', 'Amante de leitura (Mangás, lightnovels, livros de fantasia)']
+}
+
+console.log(aboutMe)
 ```
 
 </div>
@@ -83,4 +86,4 @@ let city = 'Itajubá'
 
 </div>
 
-<h3 align="center">Opa, gostou? Quer bater um papo, né?! Chama no Discord para conversarmos: Leosonicx#3020 </h3>
+<h3 align="center">Opa, gostou? Quer bater um papo, né?! Chama no Discord para conversarmos: Leosonicx#3020</h3>
