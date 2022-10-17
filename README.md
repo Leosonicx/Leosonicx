@@ -14,7 +14,7 @@
 
 - 🌱 *O que estou cursando*?
 
-- 📋 *Curso de* **<a href="https://leosonicx.notion.site/JavaScript-87465157fef6472cbbfeee24327a9315" target="_blank>JavaScript Roger Melo</a>** (CJRM);
+- 📋 *Curso de* **<a href="https://leosonicx.notion.site/JavaScript-87465157fef6472cbbfeee24327a9315" target="_blank">JavaScript Roger Melo</a>** (CJRM);
 
 - 📋 *Profissional de* **<a href="https://leosonicx.notion.site/Curso-de-ingl-s-T-cnico-B-sico-ao-Avan-ado-3172ddabea564c3b8af8dd7333413900" target="_blank">UX Design</a>** *do* **Google**;
 
