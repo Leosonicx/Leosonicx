@@ -18,8 +18,10 @@
 
 - 📋 *Profissional de* **<a href="https://leosonicx.notion.site/Curso-de-ingl-s-T-cnico-B-sico-ao-Avan-ado-3172ddabea564c3b8af8dd7333413900" target="_blank">UX Design</a>** *do* **Google**;
 
-- 📋 *Profissional de* **<a href="https://leosonicx.notion.site/An-lise-de-Dados-Profissionalizante-8948f1b98daa48d1a0598d08b03eb759" target="_blank">Análise de Dados</a>** *do* **Google**;
+- 📋 *Profissional de* **<a href="https://leosonicx.notion.site/Suporte-de-T-I-9074a56f13524429b5ab66360b5fbb88" target="_blank">Análise de Dados</a>** *do* **Google**;
 
+- 📋 *Profissional de* **<a href="https://leosonicx.notion.site/An-lise-de-Dados-Profissionalizante-8948f1b98daa48d1a0598d08b03eb759" target="_blank">Suporte de T.I</a>** *do* **Google**;  
+  
 - 📋 *EF English Live* - **<a href="https://leosonicx.notion.site/Curso-de-ingl-s-T-cnico-B-sico-ao-Avan-ado-3172ddabea564c3b8af8dd7333413900" target="_blank">Inglês Técnico</a>**;
 
 </div>
