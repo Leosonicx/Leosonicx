@@ -14,15 +14,23 @@
 
 - 🌱 *O que estou cursando*?
 
-- 📋 *Curso de* **<a href="https://leosonicx.notion.site/JavaScript-87465157fef6472cbbfeee24327a9315" target="_blank">JavaScript Roger Melo</a>** (CJRM);
-
 - 📋 *Profissional de* **<a href="https://leosonicx.notion.site/Curso-de-ingl-s-T-cnico-B-sico-ao-Avan-ado-3172ddabea564c3b8af8dd7333413900" target="_blank">UX Design</a>** *do* **Google**;
 
 - 📋 *Profissional de* **<a href="https://leosonicx.notion.site/Suporte-de-T-I-9074a56f13524429b5ab66360b5fbb88" target="_blank">Análise de Dados</a>** *do* **Google**;
 
-- 📋 *Profissional de* **<a href="https://leosonicx.notion.site/An-lise-de-Dados-Profissionalizante-8948f1b98daa48d1a0598d08b03eb759" target="_blank">Suporte de T.I</a>** *do* **Google**;  
+- 📋 *Profissional de* **<a href="https://leosonicx.notion.site/An-lise-de-Dados-Profissionalizante-8948f1b98daa48d1a0598d08b03eb759" target="_blank">Suporte de T.I</a>** *do* **Google**;
   
-- 📋 *EF English Live* - **<a href="https://leosonicx.notion.site/Curso-de-ingl-s-T-cnico-B-sico-ao-Avan-ado-3172ddabea564c3b8af8dd7333413900" target="_blank">Inglês Técnico</a>**;
+- 📋 *Profissional de* **<a href="https://leosonicx.notion.site/Ciber-seguran-a-c75eb8e840d944d18aaea22a12e3e73c" target="_blank">Analista de Cibersegurança</a>** *da* **IBM**;
+  
+- 📋 *EF English Live* - **<a href="https://leosonicx.notion.site/Curso-de-ingl-s-T-cnico-B-sico-ao-Avan-ado-3172ddabea564c3b8af8dd7333413900" target="_blank">Inglês Geral + Técnico</a>**;
+  
+- 📋 *CJRM* **<a href="https://leosonicx.notion.site/JavaScript-87465157fef6472cbbfeee24327a9315" target="_blank">Curso JavaScript Roger Melo</a>**;
+  
+- 📋 *Programa de cursos integrados:* **<a href="https://leosonicx.notion.site/An-lise-de-Dados-Profissionalizante-8948f1b98daa48d1a0598d08b03eb759" target="_blank">Ciência de Dados</a>** *da* **Universidade Johns Hopkins**;
+  
+- 📋 *Programa de cursos integrados:* **<a href="https://leosonicx.notion.site/Python-58eef954ca2243b4a031c5806d1b9fad" target="_blank">Python 3 Programming</a>** *da* **Universidade de Michigan**;
+  
+- 📋 *Programa de cursos integrados:* **<a href="https://leosonicx.notion.site/Python-58eef954ca2243b4a031c5806d1b9fad" target="_blank">Python para Todos</a>** *da* **Universidade de Michigan**;
 
 </div>
 
