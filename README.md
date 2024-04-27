@@ -6,7 +6,7 @@
 
 </div>
 
-<h3 align="center">Sou um estudante de Análise e Desenvolvimento de Sistemas (Graduação) na Unopar e Desenvolvimento de Sistemas (Técnico) na Unicesumar.</h3>
+<h3 align="center">Atualmente trabalhando como Vendedor de materiais elétricos, mudando pra área de T.I</h3>
 
 <br>
 
