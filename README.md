@@ -6,7 +6,7 @@
 
 </div>
 
-<h3 align="center">Desenvolvedor amante de programação, saiba mais sobre mim abaixo:</h3>
+<h3 align="center">Desenvolvedor amante por programação, saiba mais sobre mim abaixo:</h3>
 
 <br>
 
