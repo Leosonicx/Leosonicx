@@ -6,7 +6,7 @@
 
 </div>
 
-<h3 align="center">Sou um estudante de Desenvolvimento Front-End, UX Design e Análise de Dados.</h3>
+<h3 align="center">Sou um estudante de Análise e Desenvolvimento de Sistemas (Graduação) na Unopar e Desenvolvimento de Sistemas (Técnico) na Unicesumar.</h3>
 
 <br>
 
