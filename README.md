@@ -14,7 +14,7 @@
 
 - 🌱 *O que estou cursando*?
 
--  📋 *Engenharia Front-End* **<a href="https://lms.ebaconline.com.br/dashboard">EBAC - EBAC (Escola Britânica de Artes Criativas e Tecnologia)</a>**;
+-  📋 *Engenharia Front-End* **<a href="https://lms.ebaconline.com.br/dashboard">EBAC (Escola Britânica de Artes Criativas e Tecnologia)</a>**;
   
 - 📋 *CJRM* **<a href="https://leosonicx.notion.site/JavaScript-87465157fef6472cbbfeee24327a9315" target="_blank">Curso JavaScript Roger Melo</a>**;
   
