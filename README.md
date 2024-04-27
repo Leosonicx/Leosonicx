@@ -6,7 +6,7 @@
 
 </div>
 
-<h3 align="center">Atualmente trabalhando como Vendedor de materiais elétricos, mudando pra área de T.I</h3>
+<h3 align="center">Atualmente trabalhando como vendedor de materiais elétricos, tentando entrar pra área de tecnologia!</h3>
 
 <br>
 
