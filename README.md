@@ -6,7 +6,7 @@
 
 </div>
 
-<h3 align="center">Atualmente trabalhando como vendedor de materiais elétricos, tentando entrar pra área de tecnologia!</h3>
+<h3 align="center">Desenvolvedor amante de programação, saiba mais sobre mim abaixo:</h3>
 
 <br>
 
